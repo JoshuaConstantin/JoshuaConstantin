@@ -1,6 +1,7 @@
 # Hello, I'm Joshua Constantin
 <a href="https://www.linkedin.com/in/joshua-constantin-319836103/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+## Introduction
 [Brief Introduction - Remove this afterwards]
 
 I am a army veteran with a keen interest in blue team cybersecurity. With a dedication to defending systems and networks, i am particuraly focused on threat analysis to better understand and mitigate potential security threats.
