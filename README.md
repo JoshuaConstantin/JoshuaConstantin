@@ -8,7 +8,7 @@ I am a army veteran with a keen interest in blue team cybersecurity. With a dedi
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As a veteran with a solid background in computer science, I've developed a strong passion for cybersecurity. I'm now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, with a particular interest in blue team operations and threat analysis.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
