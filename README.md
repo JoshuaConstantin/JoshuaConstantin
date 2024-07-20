@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a army veteran with a keen interest in blue team cybersecurity. With a dedication to defending systems and networks, i am particuraly focused on threat analysis to better understand and mitigate potential security threats.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
